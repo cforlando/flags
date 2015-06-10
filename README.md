@@ -2,8 +2,11 @@
 <img src="county-orange/1994-10-adams.jpg" width="200"/>
 <img src="city-of-casselberry/1996-casselberry-sob.gif" width="200"/>
 <img src="city-of-eatonville/eatonville-sob.jpg" width="200"/>
+<<<<<<< HEAD
+=======
 <img src="city-of-kissimmee/README.md" width="200"/>
 <img src="city-of-apopka/README.md" width="200"/>
+>>>>>>> 8b48861a4081418fc892c3f02dd8a9f7f5752d4e
 <img src="city-of-apopka/apopka.gif" width="200"/>
 <img src="city-of-maitland/maitland-sob.jpg" width="200"/>
 
