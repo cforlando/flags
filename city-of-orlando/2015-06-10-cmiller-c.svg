@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300cm"
+   height="200cm"
+   viewBox="0 0 10629.921 7086.6144"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="city-of-orlando-flag-chad-quad.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="5799.3194"
+     inkscape:cy="5034.2739"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     units="m"
+     borderlayer="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="2396"
+     inkscape:window-height="1445"
+     inkscape:window-x="148"
+     inkscape:window-y="100"
+     inkscape:window-maximized="0"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="ocean and water"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,6034.252)">
+    <rect
+       style="opacity:1;fill:#003996;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4142"
+       width="10629.921"
+       height="7086.6143"
+       x="0"
+       y="-6034.252" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="land and nature"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#007f00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:35.43307114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,4.6875001e-5 6200.7874,4.6875e-5 10629.921,7086.6142 l -6200.7871,0 z"
+       id="rect4200"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="sun and excitement and centraility"
+     style="display:inline">
+    <path
+       transform="matrix(-0.91225942,-0.5186916,0.52669326,-0.89840026,11809.576,3354.6222)"
+       inkscape:transform-center-y="6.5711544"
+       inkscape:transform-center-x="-89.925968"
+       d="m 6032.6299,-3692.9636 530.697,207.2557 -427.8065,376.2657 273.3162,499.8925 -569.5777,13.2476 -111.9525,558.6241 -444.8372,-355.9693 -444.8371,355.9693 -111.9525,-558.6241 -569.5777,-13.2476 273.3162,-499.8925 -427.8065,-376.2657 530.697,-207.2557 -85.8598,-563.2249 539.7589,182.3584 296.2615,-486.645 296.2616,486.645 539.7589,-182.3584 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-0.17453293"
+       sodipodi:arg1="-0.52359878"
+       sodipodi:r2="1300.6169"
+       sodipodi:r1="866.21088"
+       sodipodi:cy="-3259.8582"
+       sodipodi:cx="5282.4692"
+       sodipodi:sides="9"
+       id="path4202"
+       style="display:inline;opacity:1;fill:#ffe500;fill-opacity:1;fill-rule:nonzero;stroke:#7f7f7f;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star" />
+  </g>
+</svg>
