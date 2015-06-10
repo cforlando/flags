@@ -5,6 +5,8 @@
 <img src="city-of-apopka/apopka.gif" width="200"/>
 <img src="city-of-maitland/maitland-sob.jpg" width="200"/>
 <img src="city-of-kissimmee/kissimmee-sob.png" width="200"/>
+<img src="county-lake/lake.jpg" width="200"/>
+<img src="county-osceola/osceola.png" width="200"/>
 
 ----
 
