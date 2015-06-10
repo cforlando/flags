@@ -4,6 +4,7 @@
 <img src="city-of-eatonville/eatonville-sob.jpg" width="200"/>
 <img src="city-of-apopka/apopka.gif" width="200"/>
 <img src="city-of-maitland/maitland-sob.jpg" width="200"/>
+<img src="city-of-kissimmee/kissimmee-sob.png" width="200"/>
 
 ----
 
