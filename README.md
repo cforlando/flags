@@ -1,10 +1,17 @@
+<img src="city-of-orlando/1980-06-02-kiwanis.png" width="200"/>
+<img src="county-orange/1994-10-adams.jpg" width="200"/>
+<img src="city-of-casselberry/1996-casselberry-sob.gif" width="200"/>
+<img src="city-of-eatonville/eatonville-sob.jpg" width="200"/>
+<img src="city-of-kissimmee/README.md" width="200"/>
+<img src="city-of-apopka/README.md" width="200"/>
+<img src="city-of-apopka/apopka.gif" width="200"/>
+<img src="city-of-maitland/maitland-sob.jpg" width="200"/>
 
-
-
+----
 
 From the [North American Vexillological Association book "Good Flag Bad Flag"](http://www.ausflag.com.au/assets/images/Good-Flag-Bad-Flag.pdf):
 
-THE FIVE BASIC PRINCIPLES OF FLAG DESIGN
+The Five Basic Principles of Flag Design
 ========================================
 
 1. *Keep it Simple.*  The flag should be so simple that a child can draw it from memory
@@ -119,10 +126,10 @@ library
 Other Considerations
 --------------------
 
-Arectangle is the standard flag shape. Keep the
-width–to–length proportions between 1:1.5 and 1:2.
+A rectangle is the standard flag shape. Keep the
+width–to–length proportions between 2:3 and 1:2.
 Canadian flags are usually 1:2; U.S. flags are usually
-1:1.5 or 1:1.67. Square flags are unusual in North America.
+2:3 or 3:5. Square flags are unusual in North America.
 Abandon such rectangles only when meaningful.
 
 Flags wear. By retaining a rectangular shape and
