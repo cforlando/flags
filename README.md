@@ -2,7 +2,6 @@ Prior "Art"
 ===========
 
 * 2005-10, [San Francisco citizens want a new flag](http://www.sanfranciscoflag.com/)
-http://www.gabere.com/Albuquerque-Flag-Redesign
 * 2013-10, [Bressler Group redesigned Philadelphia's flag](http://accelerator.bresslergroup.com/2013/10/sideproject-reflag-for-designphiladelphia/)
 * 2013-08, [Bressler Group proposed new state (and District) flags](http://accelerator.bresslergroup.com/2013/08/united-we-stand/)
 * 2014-06, [Provo Mayor embarassed enough to call for replacement](http://blog.cvsflags.com/flag-fun/provo-mayor-calls-citizen-input-new-city-flag-redesign)
