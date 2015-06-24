@@ -1,3 +1,18 @@
+Prior "Art"
+===========
+
+* 2005-10, [San Francisco citizens want a new flag](http://www.sanfranciscoflag.com/)
+http://www.gabere.com/Albuquerque-Flag-Redesign
+* 2013-10, [Bressler Group redesigned Philadelphia's flag](http://accelerator.bresslergroup.com/2013/10/sideproject-reflag-for-designphiladelphia/)
+* 2013-08, [Bressler Group proposed new state (and District) flags](http://accelerator.bresslergroup.com/2013/08/united-we-stand/)
+* 2014-06, [Provo Mayor embarassed enough to call for replacement](http://blog.cvsflags.com/flag-fun/provo-mayor-calls-citizen-input-new-city-flag-redesign)
+* 2015-05, [Albuquerque resident designs new flag](http://www.gabere.com/Albuquerque-Flag-Redesign)
+* 2015-05, [El Paso redesign](http://jamesreyes.tumblr.com/post/120409320491/a-proposed-redesign-of-the-flag-of-the-city-of-el)
+* 2015-06, [Boston Globe even makes a worksheet for readers to use to redesign Boston's flag](https://www.bostonglobe.com/ideas/2015/06/13/improving-boston-city-flag/pSGLpo3Ef1jNiK4Ejtk8oL/story.html)
+
+What we have around us now
+--------------------------
+
 <img src="city-of-orlando/1980-06-02-kiwanis.png" width="200"/>
 <img src="county-orange/1994-10-adams.jpg" width="200"/>
 <img src="city-of-casselberry/1996-casselberry-sob.gif" width="200"/>
