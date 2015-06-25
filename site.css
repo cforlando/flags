@@ -21,7 +21,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	padding: 0;
 	margin: 0;
-	font: inherit;
+	font-family: 'PT Serif', serif;
 	font-size: 100%;
 	vertical-align: baseline;
 	border: 0;
@@ -44,6 +44,7 @@ ol, ul {
 
 ol { list-style-type: decimal; padding-left: 1ex; }
 .article ol {
+	font-family: 'Cinzel', serif;
 	margin: 1ex;
 	font-size: large;
 }
