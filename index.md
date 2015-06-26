@@ -50,3 +50,8 @@ Proposals:
 
 * [Chad Miller](chad-orlando.html)
 
+
+Code?
+=====
+
+Go to [Code for Orlando's "flags" repo](https://github.com/cforlando/flags) to see other cities' and counties' flags nearby, and start to design your own.
