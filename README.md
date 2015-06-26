@@ -11,6 +11,7 @@ Prior "Art"
 * 2015-05, [Albuquerque resident designs new flag](http://www.gabere.com/Albuquerque-Flag-Redesign)
 * 2015-05, [El Paso redesign](http://jamesreyes.tumblr.com/post/120409320491/a-proposed-redesign-of-the-flag-of-the-city-of-el)
 * 2015-06, [Boston Globe even makes a worksheet for readers to use to redesign Boston's flag](https://www.bostonglobe.com/ideas/2015/06/13/improving-boston-city-flag/pSGLpo3Ef1jNiK4Ejtk8oL/story.html)
+* 2015-06, [Inside the Campaign to Redesign SF's Suck-tastic Flag](http://www.wired.com/2015/06/inside-campaign-redesign-sfs-suck-tastic-flag/)
 
 What we have around us now
 --------------------------
