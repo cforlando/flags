@@ -30,7 +30,7 @@ The Five Basic Rules for Flag Design
 
 The North American Vexillological Association published a list of five criteria that flag designers should try to adhere to.
 
-<figure class="floater"><img style="width: 45ex;" src="https://camo.githubusercontent.com/e2d3c68a07f7664a5bee12a5472c868b026f3f42/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f583750534f715f73615a36444b6d30596269517631354648484275766a50786253464a78756d446c346f35613d773831302d683933302d6e6f"/><figcaption>Undistictive design requires a label, but labels are always illegible.</figcaption></figure>
+<figure class="floater"><img style="width: 45ex; max-width: 100%;" src="https://camo.githubusercontent.com/e2d3c68a07f7664a5bee12a5472c868b026f3f42/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f583750534f715f73615a36444b6d30596269517631354648484275766a50786253464a78756d446c346f35613d773831302d683933302d6e6f"/><figcaption>Undistictive design requires a label, but labels are always illegible.</figcaption></figure>
 
 1. *Keep it Simple.*  The flag should be so simple that a child can draw it from memory
 2. *Use Meaningful Symbolism.* The flag’s images, colors, or patterns should relate to what it symbolizes
@@ -45,3 +45,8 @@ intersection right next to the Chamber of Commerce. That's the kind of
 personality this flag has. It's only embraced by a Chamber of Commerce.
 
 Orlando is pretty great. We deserve better than this.
+
+Proposals:
+
+* [Chad Miller](chad-orlando.html)
+
