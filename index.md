@@ -46,7 +46,8 @@ personality this flag has. It's only embraced by a Chamber of Commerce.
 
 Orlando is pretty great. We deserve better than this.
 
-Proposals:
+Proposals
+=========
 
 * [Chad Miller](chad-orlando.html)
 
