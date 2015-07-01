@@ -55,3 +55,5 @@ Code?
 =====
 
 Go to [Code for Orlando's "flags" repo](https://github.com/cforlando/flags) to see other cities' and counties' flags nearby, and start to design your own.
+
+Get *this* web page by cloning **git@github.com:cforlando/flags.git** and then **checkout gh-pages**. Add pages and push back.
